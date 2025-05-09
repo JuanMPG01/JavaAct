@@ -1,7 +1,5 @@
 package Student;
 
-import practice.hol.Book;
-
 import java.util.ArrayList;
 
 public class Student {

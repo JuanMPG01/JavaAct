@@ -1,5 +1,4 @@
-import practice.hol.Book;
-import practice.hol.Library;
+package library;
 
 import javax.swing.*;
 
